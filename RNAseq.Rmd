@@ -1,9 +1,6 @@
----
-title: "RNAseq"
-author: "Paulina Pineda A01657655"
-date: "2025-09-02"
-output: html_document
----
+### RNAseq
+## Joana Paulina Pineda Corella 
+# A01657655
 
 ```{r}
 
